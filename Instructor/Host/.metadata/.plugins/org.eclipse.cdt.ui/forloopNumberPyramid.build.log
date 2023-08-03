@@ -1,0 +1,12 @@
+19:11:36 **** Rebuild of configuration Debug for project forloopNumberPyramid ****
+Info: Configuration "Debug" uses tool-chain "MinGW GCC" that is unsupported on this system, attempting to build anyway.
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o main.o "..\\main.c" 
+Cannot run program "gcc": Launching failed
+
+Error: Program "gcc" not found in PATH
+PATH=[C:\msys64\mingw64\bin\bin;C:\msys64\bin;C:\msys64\usr\bin;D:/Apps/ST/STM32CubeIDE_1.13.1/STM32CubeIDE//plugins/com.st.stm32cube.ide.jre.win64_3.0.0.202305091045/jre/bin/server;D:/Apps/ST/STM32CubeIDE_1.13.1/STM32CubeIDE//plugins/com.st.stm32cube.ide.jre.win64_3.0.0.202305091045/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Git\cmd;C:\Program Files\Cloudflare\Cloudflare WARP\;C:\Users\3qtha\AppData\Local\Microsoft\WindowsApps;D:\Apps\Microsoft VS Code\bin;C:\msys64\mingw64\bin;;D:\Apps\JetBrains\PyCharm 2023.2\bin;;D:\Apps\ST\STM32CubeIDE_1.13.1\STM32CubeIDE]
+
+
+19:11:36 Build Finished. 0 errors, 0 warnings. (took 63ms)
+

@@ -1,0 +1,16 @@
+/*
+ * main.c
+ *
+ *  Created on: Aug 3, 2023
+ *      Author: 3qtha
+ */
+#include<stdio.h>
+
+int main(void)
+{
+	printf("Hello World\n");
+	printf("Nhan 'Enter' để thoat");
+	getchar();
+	return 0;
+}
+
